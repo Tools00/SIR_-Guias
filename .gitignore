@@ -1,0 +1,15 @@
+# OS-spezifische Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Editor-Verzeichnisse
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.tmp
+*.bak
