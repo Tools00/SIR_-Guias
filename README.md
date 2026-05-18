@@ -143,7 +143,7 @@ This project implements the model developed by Prof. Dr. Flavius Guiaș. Key pub
 
 ---
 
-**Web implementation:** Engineering Project (Ingenieurmäßige Arbeit), FH Dortmund 2025
+**Web implementation:** Engineering Project , FH Dortmund 2025
 
 ---
 
